@@ -1,0 +1,4 @@
+../Core/st7735.c:23:6:reset_display	8	static
+../Core/st7735.c:29:6:send_command	16	static
+../Core/st7735.c:36:6:send_data	16	static
+../Core/st7735.c:44:6:init_display	24	static

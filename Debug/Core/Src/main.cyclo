@@ -1,0 +1,7 @@
+../Core/Src/main.c:60:6:define_window	1
+../Core/Src/main.c:74:6:display	3
+../Core/Src/main.c:91:5:main	1
+../Core/Src/main.c:140:6:SystemClock_Config	3
+../Core/Src/main.c:182:13:MX_SPI1_Init	2
+../Core/Src/main.c:220:13:MX_GPIO_Init	1
+../Core/Src/main.c:253:6:Error_Handler	1
