@@ -1,4 +1,0 @@
-../Core/st7735.c:23:6:reset_display	1
-../Core/st7735.c:29:6:send_command	1
-../Core/st7735.c:36:6:send_data	1
-../Core/st7735.c:44:6:init_display	1
